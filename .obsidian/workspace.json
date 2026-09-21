@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Questions/System design.md",
+                "file": "Interview/Questions/System architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "System design"
+              "title": "System architecture"
             }
           }
         ]
@@ -190,8 +190,19 @@
   },
   "active": "4cf46d10d8f9a7dc",
   "lastOpenFiles": [
-    "Interview/Questions/Caching.md",
+    "Interview/Questions/Golang.md",
+    "Interview/Questions/Software design.md",
+    "Inbox",
+    "Interview/Questions/System architecture.md",
     "Interview/Questions/System design.md",
+    "Interview/Questions/Operating systems.md",
+    "Interview/Questions/Observability.md",
+    "Interview/Questions/Networking.md",
+    "Interview/Questions/Message Brokers.md",
+    "Interview/Questions/Infrastructure.md",
+    "Interview/Questions/Databases.md",
+    "Interview/Questions/Caching.md",
+    "Interview/Questions/WEB.md",
     "Knowledge base/System design",
     "Knowledge base/Software design",
     "Knowledge base/System architecture",
@@ -201,17 +212,6 @@
     "Knowledge base/Observability",
     "Knowledge base/Caching",
     "Knowledge base/Message brokers",
-    "Knowledge base/WEB",
-    "Interview/Questions/software design.md",
-    "Interview/Questions/System architecture.md",
-    "Interview/Questions/Infrastructure.md",
-    "Interview/Questions/Networking.md",
-    "Interview/Questions/Operating systems.md",
-    "Interview/Questions/Observability.md",
-    "Interview/Questions/Message Brokers.md",
-    "Interview/Questions/WEB.md",
-    "Interview/Questions/Databases.md",
-    "Interview/Questions/Golang.md",
     "Добро пожаловать.md"
   ]
 }
