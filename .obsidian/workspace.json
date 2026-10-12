@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3bdd96a8596b5736",
+        "id": "b9944009dbaa3564",
         "type": "tabs",
         "children": [
           {
-            "id": "4cf46d10d8f9a7dc",
+            "id": "7f79f6190d3f9080",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Tasks/Go/Algorithms/Ссылки на задачи с LeetCode.md",
+                "file": "Knowledge base/System design/Cases/Booking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ссылки на задачи с LeetCode"
+              "title": "Booking"
             }
           }
         ]
@@ -188,43 +188,51 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "4cf46d10d8f9a7dc",
+  "active": "7f79f6190d3f9080",
   "lastOpenFiles": [
-    "Interview/Tasks/Go/Algorithms/Общее.md",
+    "Knowledge base/System design/Cases/Booking_refined.md",
+    "Knowledge base/System design/Cases/Booking.md",
+    "Knowledge base/System design/Cases/Google_Drive.md",
+    "Knowledge base/System design/Cases/images/систем_дизайн_booking.drawio.svg",
+    "Knowledge base/System design/Cases/File storage(google drive, яндекс диск).md",
+    "Knowledge base/System design/Cases/Leetcode.md",
+    "Knowledge base/System design/Cases/images/систем_дизайн_google_drive.drawio.svg",
+    "Knowledge base/System design/Cases/Taxi.md",
+    "Knowledge base/System design/Cases/images/систем_дизайн_leetcode.drawio.svg",
+    "Knowledge base/System design/Cases/images/систем_дизайн_такси.drawio.svg",
+    "Knowledge base/System design/Cases/images/систем_дизайн_вб_такси.drawio.svg",
+    "Knowledge base/System design/Cases/Messenger.md",
+    "Knowledge base/System design/Cases/Social feed.md",
+    "Knowledge base/System design/Cases/images/систем_дизайн_whatsapp.drawio.svg",
+    "Knowledge base/System design/Cases/images/систем_дизайн_лента_вк.drawio.svg",
+    "Knowledge base/System design/Cases/images",
+    "Interview/Questions/System design.md",
+    "Knowledge base/System design/bottlenecks/Connection Bottleneck.md",
+    "Knowledge base/System design/bottlenecks/Database Bottleneck.md",
+    "Knowledge base/System design/bottlenecks/Memory.md",
+    "Knowledge base/System design/bottlenecks/CPU.md",
+    "Knowledge base/System design/bottlenecks/Disk.md",
+    "Knowledge base/System design/bottlenecks/Network.md",
+    "Knowledge base/System design/bottlenecks",
+    "Knowledge base/System design/Capacity planning.md",
+    "Knowledge base/System design/Data Size.md",
+    "Interview/Questions/System architecture.md",
+    "Knowledge base/System design/Design desicions.md",
+    "Knowledge base/System design/Cases",
+    "Knowledge base/System design/System Design Workload Patterns.md",
     "Interview/Tasks/Go/Algorithms/Ссылки на задачи с LeetCode.md",
+    "Interview/Tasks/Go/Algorithms/Общее.md",
     "Interview/Tasks/Go/Concurrency/Параллельное выполнение группы задач.md",
     "Interview/Tasks/Go/Language/Interface.md",
     "Interview/Tasks/Go/Language/Append и Slice 1.md",
     "Interview/Tasks/Go/Language/Append и Slice 2.md",
-    "Interview/Questions/Golang.md",
-    "Interview/Tasks/Go/HTTP запросы.md",
-    "Interview/Tasks/Go/Concurrency/Гонка на счётчике.md",
-    "Interview/Tasks/Go/Concurrency/Worker pool.md",
-    "Interview/Tasks/Go/Concurrency/fan-in.md",
-    "Interview/Tasks/Go/Concurrency/Параллельные запросы.md",
     "Interview/Tasks/Go/Code Review",
-    "Interview/Tasks/Go/Concurrency/Параллельное получение файлов.md",
     "Interview/Tasks/Go/Language",
     "Interview/Tasks/Go/Concurrency",
-    "Interview/Questions/System architecture.md",
     "Interview/Tasks/Go/Algorithms",
     "Interview/Tasks/SQL",
     "Interview/Tasks/Без названия.canvas",
     "Interview/Tasks/Go",
-    "Interview/Questions/Software design.md",
-    "Inbox",
-    "Interview/Questions/System design.md",
-    "Interview/Questions/Operating systems.md",
-    "Interview/Questions/Observability.md",
-    "Interview/Questions/Networking.md",
-    "Interview/Questions/Message Brokers.md",
-    "Interview/Questions/Infrastructure.md",
-    "Interview/Questions/Databases.md",
-    "Interview/Questions/Caching.md",
-    "Interview/Questions/WEB.md",
-    "Knowledge base/System design",
-    "Knowledge base/Software design",
-    "Knowledge base/System architecture",
-    "Добро пожаловать.md"
+    "Inbox"
   ]
 }
