@@ -41,7 +41,7 @@
 
 
 ## Distributed Tracing
-
+* что такое в принципе трейсинг
 - Что такое distributed tracing и зачем он нужен?
 - Что такое trace и span?
 - Как trace context передаётся между сервисами?
